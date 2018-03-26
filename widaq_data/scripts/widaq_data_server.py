@@ -120,7 +120,7 @@ def widaq_data_server():
     pub.publish(data1)
     pub.publish(data2)
     pub.publish(data3)
-    pub.publish(data3)
+    pub.publish(data4)
 
     rate.sleep()	
 if __name__ == "__main__":
